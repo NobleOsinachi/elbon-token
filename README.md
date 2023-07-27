@@ -1,4 +1,4 @@
-# elbon-token ERC-20 Token
+# elbon ERC-20 token
 
 A simple ERC20 token for my token ELB on the Goerli testnet.
 
