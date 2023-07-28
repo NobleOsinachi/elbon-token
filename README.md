@@ -2,6 +2,9 @@
 
 A simple ERC20 token for my token ELB on the Goerli testnet.
 
+Token address: 0xAFA7564C9B1A150a6fd83907d6748c06b2f50d1e
+
+
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
 ![Remix](https://img.shields.io/badge/-Remix-363636?style=flat&logo=ethereum)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-363636?style=flat&logo=blockchain)
